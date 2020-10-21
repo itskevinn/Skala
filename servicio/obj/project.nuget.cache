@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TE0EClzASlNSGv+6BeS4MjmJo4nthrJe/vIOOEhb7TL5TUFkIC6usQT+W1K4k1Ly7numxW6HWt+IQn0I+C+QNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\SkalaWeb\\servicio\\servicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
