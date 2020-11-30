@@ -14,3 +14,26 @@ code {
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
+.modal-header-sm {
+  height: 200px;
+}
+.titulo-rojo {
+  font-weight: bold;
+  color: rgb(250, 98, 98);
+}
+
+.titulo-verde {
+  font-weight: bold;
+  color: #4edf86;
+}
+.separarArriba {
+  padding-top: 0.5em;
+}
+
+.separarArriba2 {
+  padding-top: 1em;
+}
+
+.separarAbajo {
+  padding-bottom: 1em;
+}

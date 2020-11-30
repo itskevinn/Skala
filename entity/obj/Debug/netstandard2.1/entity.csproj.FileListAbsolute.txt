@@ -1,0 +1,9 @@
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\entity\bin\Debug\netstandard2.1\entity.deps.json
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\entity\bin\Debug\netstandard2.1\entity.dll
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\entity\bin\Debug\netstandard2.1\entity.pdb
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\entity\obj\Debug\netstandard2.1\entity.csprojAssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\entity\obj\Debug\netstandard2.1\entity.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\entity\obj\Debug\netstandard2.1\entity.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\entity\obj\Debug\netstandard2.1\entity.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\entity\obj\Debug\netstandard2.1\entity.dll
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\entity\obj\Debug\netstandard2.1\entity.pdb

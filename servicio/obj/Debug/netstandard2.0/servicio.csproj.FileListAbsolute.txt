@@ -12,3 +12,5 @@ C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\obj\Debug\netstandard2.0\se
 C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\obj\Debug\netstandard2.0\servicio.csproj.CopyComplete
 C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\obj\Debug\netstandard2.0\servicio.dll
 C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\obj\Debug\netstandard2.0\servicio.pdb
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\bin\Debug\netstandard2.0\infraestructura.dll
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\bin\Debug\netstandard2.0\infraestructura.pdb

@@ -1,0 +1,16 @@
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\bin\Debug\netstandard2.1\servicio.deps.json
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\bin\Debug\netstandard2.1\servicio.dll
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\bin\Debug\netstandard2.1\servicio.pdb
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\bin\Debug\netstandard2.1\datos.dll
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\bin\Debug\netstandard2.1\entity.dll
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\bin\Debug\netstandard2.1\infraestructura.dll
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\bin\Debug\netstandard2.1\datos.pdb
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\bin\Debug\netstandard2.1\entity.pdb
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\bin\Debug\netstandard2.1\infraestructura.pdb
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\obj\Debug\netstandard2.1\servicio.csprojAssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\obj\Debug\netstandard2.1\servicio.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\obj\Debug\netstandard2.1\servicio.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\obj\Debug\netstandard2.1\servicio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\obj\Debug\netstandard2.1\servicio.csproj.CopyComplete
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\obj\Debug\netstandard2.1\servicio.dll
+C:\Users\kevin\OneDrive\Escritorio\SkalaWeb\servicio\obj\Debug\netstandard2.1\servicio.pdb

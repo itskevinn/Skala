@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datos", "datos\datos.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "entity", "entity\entity.csproj", "{D28A29EC-438F-4EE1-B121-C4364739E650}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infraestructura", "infraestructura\infraestructura.csproj", "{F98E2E65-6FA2-4D2E-AB45-D9E5BC1F4058}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,17 @@ Global
 		{D28A29EC-438F-4EE1-B121-C4364739E650}.Release|x64.Build.0 = Release|Any CPU
 		{D28A29EC-438F-4EE1-B121-C4364739E650}.Release|x86.ActiveCfg = Release|Any CPU
 		{D28A29EC-438F-4EE1-B121-C4364739E650}.Release|x86.Build.0 = Release|Any CPU
+		{F98E2E65-6FA2-4D2E-AB45-D9E5BC1F4058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98E2E65-6FA2-4D2E-AB45-D9E5BC1F4058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98E2E65-6FA2-4D2E-AB45-D9E5BC1F4058}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F98E2E65-6FA2-4D2E-AB45-D9E5BC1F4058}.Debug|x64.Build.0 = Debug|Any CPU
+		{F98E2E65-6FA2-4D2E-AB45-D9E5BC1F4058}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F98E2E65-6FA2-4D2E-AB45-D9E5BC1F4058}.Debug|x86.Build.0 = Debug|Any CPU
+		{F98E2E65-6FA2-4D2E-AB45-D9E5BC1F4058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98E2E65-6FA2-4D2E-AB45-D9E5BC1F4058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F98E2E65-6FA2-4D2E-AB45-D9E5BC1F4058}.Release|x64.ActiveCfg = Release|Any CPU
+		{F98E2E65-6FA2-4D2E-AB45-D9E5BC1F4058}.Release|x64.Build.0 = Release|Any CPU
+		{F98E2E65-6FA2-4D2E-AB45-D9E5BC1F4058}.Release|x86.ActiveCfg = Release|Any CPU
+		{F98E2E65-6FA2-4D2E-AB45-D9E5BC1F4058}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
